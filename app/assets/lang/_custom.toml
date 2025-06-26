@@ -1,0 +1,20 @@
+# Custom Language File for Launcher Customizer
+
+[ejs.app]
+title = "모겜동"
+
+[ejs.landing]
+mediaGitHubURL = "https://github.com/0-bird/Mogam_Life"
+mediaXURL = "#"
+mediaInstagramURL = "#"
+mediaYouTubeURL = "#"
+mediaDiscordURL = "https://discord.gg/4fD52DDrJ9"
+
+[ejs.settings]
+sourceGithubLink = "https://github.com/0-bird/Mogam_Life"
+supportLink = "https://github.com/0-bird/Mogam_Life/issues"
+
+[ejs.welcome]
+welcomeHeader = "모겜동에 오신 것을 환영합니다."
+welcomeDescription = "해당 런처는 '아이곰(discord: babybear7)'에 의해 제작되었습니다."
+welcomeDescCTA = "몇번만 더 클릭하시면 됩니다!"
